@@ -1,0 +1,13 @@
+{
+   "Components": [
+      "character"
+   ],
+   "Entities": [
+      "player",
+      "building"
+   ],
+   "Scenes": [
+      "title",
+      "game"
+   ]
+}
